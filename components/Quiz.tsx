@@ -393,7 +393,7 @@ const Quiz: React.FC = () => {
           <h2 className="text-4xl font-black text-gray-900 dark:text-white uppercase">
             Game <span className="text-brand-gold">Quiz</span>
           </h2>
-          <p className="text-gray-600 dark:text-gray-400 mt-2">Kiểm tra sự am hiểu của bạn về thế giới tỉ phú!</p>
+          <p className="text-gray-600 dark:text-gray-400 mt-2">Kiểm tra sự am hiểu của bạn về thế giới Xã Hội Chủ Nghĩa</p>
         </div>
 
         <div className="max-w-4xl mx-auto bg-gray-50 dark:bg-gray-900/50 p-8 rounded-lg shadow-2xl ring-1 ring-gray-200 dark:ring-gray-700 min-h-[400px] flex items-center justify-center">
