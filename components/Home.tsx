@@ -52,7 +52,7 @@ const Home: React.FC<HomeProps> = ({ navigate }) => {
         >
           {/* 🎮 Chơi ngay → mở host ngoài */}
           <a
-            href="https://hadesoverflow-lenin-x5h4.bolt.host/"
+            href="https://hadesoverflow-lenin-at92.bolt.host/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-brand-gold hover:bg-amber-500 text-gray-900 font-bold py-3 px-8 rounded-full text-lg transition-all duration-300 ease-in-out hover:scale-105 shadow-lg shadow-brand-gold/40"
